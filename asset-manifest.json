@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.375c2889.css",
+    "main.js": "/static/js/main.eb38908b.js",
+    "static/js/453.81e8fdf2.chunk.js": "/static/js/453.81e8fdf2.chunk.js",
+    "static/media/santander-logo2.png": "/static/media/santander-logo2.934fd75910850f42be46.png",
+    "index.html": "/index.html",
+    "main.375c2889.css.map": "/static/css/main.375c2889.css.map",
+    "main.eb38908b.js.map": "/static/js/main.eb38908b.js.map",
+    "453.81e8fdf2.chunk.js.map": "/static/js/453.81e8fdf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375c2889.css",
+    "static/js/main.eb38908b.js"
+  ]
+}
