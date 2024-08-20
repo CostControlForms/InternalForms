@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.375c2889.css",
-    "main.js": "/static/js/main.eb38908b.js",
-    "static/js/453.81e8fdf2.chunk.js": "/static/js/453.81e8fdf2.chunk.js",
-    "static/media/santander-logo2.png": "/static/media/santander-logo2.934fd75910850f42be46.png",
-    "index.html": "/index.html",
-    "main.375c2889.css.map": "/static/css/main.375c2889.css.map",
-    "main.eb38908b.js.map": "/static/js/main.eb38908b.js.map",
-    "453.81e8fdf2.chunk.js.map": "/static/js/453.81e8fdf2.chunk.js.map"
+    "main.css": "/sbgm/static/css/main.9d958654.css",
+    "main.js": "/sbgm/static/js/main.ee9720ee.js",
+    "static/js/453.81e8fdf2.chunk.js": "/sbgm/static/js/453.81e8fdf2.chunk.js",
+    "static/media/santander-logo2.png": "/sbgm/static/media/santander-logo2.934fd75910850f42be46.png",
+    "index.html": "/sbgm/index.html",
+    "main.9d958654.css.map": "/sbgm/static/css/main.9d958654.css.map",
+    "main.ee9720ee.js.map": "/sbgm/static/js/main.ee9720ee.js.map",
+    "453.81e8fdf2.chunk.js.map": "/sbgm/static/js/453.81e8fdf2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.375c2889.css",
-    "static/js/main.eb38908b.js"
+    "static/css/main.9d958654.css",
+    "static/js/main.ee9720ee.js"
   ]
 }
