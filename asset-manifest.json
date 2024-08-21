@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sbgm/static/css/main.9d958654.css",
-    "main.js": "/sbgm/static/js/main.9053c9a6.js",
+    "main.js": "/sbgm/static/js/main.d0de50cd.js",
     "static/js/453.81e8fdf2.chunk.js": "/sbgm/static/js/453.81e8fdf2.chunk.js",
     "static/media/santander-logo2.png": "/sbgm/static/media/santander-logo2.934fd75910850f42be46.png",
     "index.html": "/sbgm/index.html",
     "main.9d958654.css.map": "/sbgm/static/css/main.9d958654.css.map",
-    "main.9053c9a6.js.map": "/sbgm/static/js/main.9053c9a6.js.map",
+    "main.d0de50cd.js.map": "/sbgm/static/js/main.d0de50cd.js.map",
     "453.81e8fdf2.chunk.js.map": "/sbgm/static/js/453.81e8fdf2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d958654.css",
-    "static/js/main.9053c9a6.js"
+    "static/js/main.d0de50cd.js"
   ]
 }
