@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/InternalForms/static/css/main.f5ca5d8c.css",
-    "main.js": "/InternalForms/static/js/main.a72fbdb6.js",
+    "main.css": "/InternalForms/static/css/main.8e438c9d.css",
+    "main.js": "/InternalForms/static/js/main.6a9d49f4.js",
     "static/js/453.81e8fdf2.chunk.js": "/InternalForms/static/js/453.81e8fdf2.chunk.js",
-    "static/media/santander-logo2.png": "/InternalForms/static/media/santander-logo2.934fd75910850f42be46.png",
     "index.html": "/InternalForms/index.html",
-    "main.f5ca5d8c.css.map": "/InternalForms/static/css/main.f5ca5d8c.css.map",
-    "main.a72fbdb6.js.map": "/InternalForms/static/js/main.a72fbdb6.js.map",
+    "main.8e438c9d.css.map": "/InternalForms/static/css/main.8e438c9d.css.map",
+    "main.6a9d49f4.js.map": "/InternalForms/static/js/main.6a9d49f4.js.map",
     "453.81e8fdf2.chunk.js.map": "/InternalForms/static/js/453.81e8fdf2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5ca5d8c.css",
-    "static/js/main.a72fbdb6.js"
+    "static/css/main.8e438c9d.css",
+    "static/js/main.6a9d49f4.js"
   ]
 }
